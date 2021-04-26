@@ -6,7 +6,8 @@ Technology I used
 - css 
 - Bootstrap
 - js
-- jquery
+- jQuery
+- Fontawesome
 - API
 
 
